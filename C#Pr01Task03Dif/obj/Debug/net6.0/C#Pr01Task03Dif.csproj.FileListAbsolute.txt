@@ -1,0 +1,15 @@
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\bin\Debug\net6.0\C#Pr01Task03Dif.exe
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\bin\Debug\net6.0\C#Pr01Task03Dif.deps.json
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\bin\Debug\net6.0\C#Pr01Task03Dif.runtimeconfig.json
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\bin\Debug\net6.0\C#Pr01Task03Dif.dll
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\bin\Debug\net6.0\C#Pr01Task03Dif.pdb
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\obj\Debug\net6.0\C#Pr01Task03Dif.csproj.AssemblyReference.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\obj\Debug\net6.0\C#Pr01Task03Dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\obj\Debug\net6.0\C#Pr01Task03Dif.AssemblyInfoInputs.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\obj\Debug\net6.0\C#Pr01Task03Dif.AssemblyInfo.cs
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\obj\Debug\net6.0\C#Pr01Task03Dif.csproj.CoreCompileInputs.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\obj\Debug\net6.0\C#Pr01Task03Dif.dll
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\obj\Debug\net6.0\refint\C#Pr01Task03Dif.dll
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\obj\Debug\net6.0\C#Pr01Task03Dif.pdb
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\obj\Debug\net6.0\C#Pr01Task03Dif.genruntimeconfig.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task03Dif\obj\Debug\net6.0\ref\C#Pr01Task03Dif.dll
