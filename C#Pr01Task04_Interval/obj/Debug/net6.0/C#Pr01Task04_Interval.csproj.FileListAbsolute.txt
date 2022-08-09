@@ -1,0 +1,15 @@
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\obj\Debug\net6.0\C#Pr01Task04_Interval.csproj.AssemblyReference.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\obj\Debug\net6.0\C#Pr01Task04_Interval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\obj\Debug\net6.0\C#Pr01Task04_Interval.AssemblyInfoInputs.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\obj\Debug\net6.0\C#Pr01Task04_Interval.AssemblyInfo.cs
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\obj\Debug\net6.0\C#Pr01Task04_Interval.csproj.CoreCompileInputs.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\bin\Debug\net6.0\C#Pr01Task04_Interval.exe
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\bin\Debug\net6.0\C#Pr01Task04_Interval.deps.json
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\bin\Debug\net6.0\C#Pr01Task04_Interval.runtimeconfig.json
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\bin\Debug\net6.0\C#Pr01Task04_Interval.dll
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\bin\Debug\net6.0\C#Pr01Task04_Interval.pdb
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\obj\Debug\net6.0\C#Pr01Task04_Interval.dll
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\obj\Debug\net6.0\refint\C#Pr01Task04_Interval.dll
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\obj\Debug\net6.0\C#Pr01Task04_Interval.pdb
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\obj\Debug\net6.0\C#Pr01Task04_Interval.genruntimeconfig.cache
+C:\Users\Ludmila\Desktop\C# семинары\C#Practice01.git\C#Pr01Task04_Interval\obj\Debug\net6.0\ref\C#Pr01Task04_Interval.dll
